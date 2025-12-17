@@ -1,0 +1,12 @@
+# C compiled binaries
+*.out
+*.exe
+a.out
+main
+
+# Object files
+*.o
+
+# Editor / OS junk
+.vscode/
+.DS_Store
