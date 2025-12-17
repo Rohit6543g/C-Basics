@@ -7,6 +7,9 @@ main
 # Object files
 *.o
 
+# Ignore all compiled binaries
+bin/
+
 # Editor / OS junk
 .vscode/
 .DS_Store
