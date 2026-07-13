@@ -13,3 +13,10 @@ bin/
 # Editor / OS junk
 .vscode/
 .DS_Store
+
+# Compiled executable
+contactbook
+
+# Generated database files
+data.bin
+idx.bin
