@@ -1,5 +1,7 @@
 # CLI Contact Book
 
+![Demo](assets/demo.gif)
+
 A simple command-line Contact Book written in **C** that stores contacts using binary files and an indexing mechanism for efficient searching.
 
 This project was built to practice core C programming concepts such as file handling, dynamic memory allocation, structures, and implementing simple database-like operations.
